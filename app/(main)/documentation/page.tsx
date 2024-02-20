@@ -136,7 +136,7 @@ interface MainLayoutProps {
 }
 
 export const metadata: Metadata = {
-    title: "Sakai by PrimeReact | Free Admin Template for Next.js",
+    title: "by QuickTask | Free Admin Template for Next.js",
     ...
   };
 

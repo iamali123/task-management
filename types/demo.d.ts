@@ -63,7 +63,8 @@ export interface AppMailReplyProps {
 declare namespace Demo {
     interface Task {
         id?: number;
-        name?: string;
+        name: string;
+        image?: any;
         description?: string;
         completed?: boolean;
         status?: string;
